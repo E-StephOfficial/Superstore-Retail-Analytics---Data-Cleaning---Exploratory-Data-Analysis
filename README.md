@@ -80,7 +80,8 @@ As a Data Analyst, my job is to clean the dataset, explore it, and deliver insig
 - Cleaning Log
 - PivotTables & Charts
 - Insights & Recommendations
-- Read the Business Report & Project Brief for documentation of the analysis process
+- Read the Business Report - [Business Report](Sales_Profitability_Business_Report.pdf)
+- Read Project Brief for documentation of the analysis process
 
 # Next Steps
 - Future iterations will include:
